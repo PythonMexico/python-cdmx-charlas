@@ -3,6 +3,7 @@ Repositorio de charlas del Meetup Python CDMX. Si quieres proponer una charla cr
 
 | Meetup          | Nombre                                                                   | Ponente                  | Slides/Repo | Grabacion                                   |
 |-----------------|--------------------------------------------------------------------------|--------------------------|-------------|---------------------------------------------|
+| Marzo 2024      | Flask ApiRest. Crea un api con Flask                                     | Alejandro López @CoffeeQ29kZQo  |             |  |
 | Noviembre 2023  | GitOps 101. Primeros pasos para desplegar aplicaciones en Kubernetes     | Carlos Reyes @carlosxpk  |             | https://www.youtube.com/watch?v=3hT2KTOA8Qo |
 | Noviembre 2023  | Python: La Forja de un Lenguaje                                          | Gustavo Vera             |             | https://www.youtube.com/watch?v=3hT2KTOA8Qo |
 | Octubre 2023    | Redefiniendo el Análisis Local con Python: ¡De Jupyter a Web en Minutos! | Gustavo Vera             |             | https://youtube.com/live/vhlPmOgrvUA        |
