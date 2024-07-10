@@ -2,18 +2,18 @@
 Repositorio de charlas del Meetup Python CDMX. Si quieres proponer una charla crea un issue en este repositorio con un titulo y una descripcion corta de ella.
 
 ## 2024
-| Meetup          | Charla                                                                                | Ponente                        | Slides/Repo | Grabacion                                   |
-| --------------- | ------------------------------------------------------------------------------------- | ------------------------------ | ----------- | ------------------------------------------- |
-| Diciembre 2024  | TBD                                                                                   | TBD                            | TBD         | TBD                                         |
-| Noviembre 2024  | TBD                                                                                   | TBD                            | TBD         | TBD                                         |
-| Octubre 2024    | TBD                                                                                   | TBD                            | TBD         | TBD                                         |
-| Septiembre 2024 | TBD                                                                                   | TBD                            | TBD         | TBD                                         |
-| Agosto 2024     | TBD                                                                                   | TBD                            | TBD         | TBD                                         |
-| Julio 2024      | TBD                                                                                   | TBD                            | TBD         | TBD                                         |
-| Junio 2024      | Matemáticas y Python: La ciencia de detrás de la regresión lineal                     | Geovanni Zepeda                |             | https://www.youtube.com/watch?v=BmSI2IgHG_c |
-| Mayo 2024       | Pydantic: Validaciones de datos con Type hints                                        | Charly Román                   |             | https://www.youtube.com/watch?v=acpwiu_sfjk |
-| Abril 2024      | Los ambientes virtuales son cosa del pasado: Desarrollo en python usando contenedores | David Sol                      |             | https://www.youtube.com/watch?v=emJYJhFe0l8 |
-| Marzo 2024      | Flask ApiRest. Crea un api con Flask                                                  | Alejandro López @CoffeeQ29kZQo |             | https://www.youtube.com/watch?v=MMHaIrZ1ISw |
+| Meetup          | Charla                                                                                                            | Ponente                        | Slides/Repo | Grabacion                                   |
+|-----------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|---------------------------------------------|
+| Diciembre 2024  | TBD                                                                                                               | TBD                            | TBD         | TBD                                         |
+| Noviembre 2024  | TBD                                                                                                               | TBD                            | TBD         | TBD                                         |
+| Octubre 2024    | TBD                                                                                                               | TBD                            | TBD         | TBD                                         |
+| Septiembre 2024 | TBD                                                                                                               | TBD                            | TBD         | TBD                                         |
+| Agosto 2024     | TBD                                                                                                               | TBD                            | TBD         | TBD                                         |
+| Julio 2024      | El GIL de Python: Analizaremos su funcionamiento, problemas, soluciones y el futuro de Python sin GIL (En Inglés) | Konstantin Spirin @teriva      | TBD         | TBD                                         |
+| Junio 2024      | Matemáticas y Python: La ciencia de detrás de la regresión lineal                                                 | Geovanni Zepeda                |             | https://www.youtube.com/watch?v=BmSI2IgHG_c |
+| Mayo 2024       | Pydantic: Validaciones de datos con Type hints                                                                    | Charly Román                   |             | https://www.youtube.com/watch?v=acpwiu_sfjk |
+| Abril 2024      | Los ambientes virtuales son cosa del pasado: Desarrollo en python usando contenedores                             | David Sol                      |             | https://www.youtube.com/watch?v=emJYJhFe0l8 |
+| Marzo 2024      | Flask ApiRest. Crea un api con Flask                                                                              | Alejandro López @CoffeeQ29kZQo |             | https://www.youtube.com/watch?v=MMHaIrZ1ISw |
 
 ## 2023
 | Meetup          | Charla                                                                   | Ponente                 | Slides/Repo | Grabacion                                   |
