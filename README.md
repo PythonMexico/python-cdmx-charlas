@@ -3,6 +3,12 @@
 Repositorio de charlas del Meetup #PythonCDMX
 --
 
+## 2025
+
+| Meetup          | Charla                                                                                                            | Ponente                        | Slides/Repo | Vídeo                                   |
+|-----------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|---------------------------------------------|
+| Abril 2025      | Como iniciar en el Open Source ... y no morir en el intento                                                       | Alex Callejas (@dark_axl)      | [Slides](https://darkaxl017.fedorapeople.org/slides/Como_iniciar_en_el_Open_Source.pdf)     | TBD                                         |
+
 ## 2024
 
 | Meetup          | Charla                                                                                                            | Ponente                        | Slides/Repo | Vídeo                                   |
