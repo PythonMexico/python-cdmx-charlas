@@ -1,3 +1,28 @@
+# 📢 AVISO IMPORTANTE: REPOSITORIO MIGRADO
+
+## 🚨 Este repositorio ha sido **ARCHIVADO** y ya no recibe actualizaciones
+
+La información de charlas y meetups de **Python CDMX** ha sido migrada a un nuevo repositorio y a nuestro sitio oficial.
+
+### ✅ Nueva ubicación
+- Repositorio principal: [PythonMexico/pythonCDMX](https://github.com/PythonMexico/pythonCDMX)  
+- Sitio web oficial: [pythoncdmx.org](https://pythoncdmx.org)
+
+### 🆕 ¿Qué cambió?
+Ahora contamos con una **página oficial construida con MkDocs**, donde la información de la comunidad está organizada y disponible en un solo lugar.
+
+### 🔗 Canales de la comunidad
+- Telegram: [t.me/PythonCDMX](https://t.me/PythonCDMX)  
+- Guía de contribución: [CONTRIBUTING.md](https://github.com/PythonMexico/pythonCDMX/blob/main/CONTRIBUTING.md)  
+- Issues para proponer charlas o mejoras: [Abrir issue](https://github.com/PythonMexico/pythonCDMX/issues/new)
+
+---
+
+**Este repositorio queda solo como consulta histórica.**  
+*Gracias por ser parte de la comunidad Python CDMX* 🐍❤️
+
+
+
 # Charlas Python CDMX
 
 Repositorio de charlas del Meetup #PythonCDMX
